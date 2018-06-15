@@ -1,6 +1,6 @@
 {
-  "name": "configBuilder",
-  "version": "0.0.5",
+  "name": "configBuilderUniqForExmpl",
+  "version": "0.0.6",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
