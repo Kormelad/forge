@@ -1,6 +1,6 @@
 {
-  "name": "loggerUniqForExmpl",
-  "version": "0.0.6",
+  "name": "logger-uniq-for-exmpl",
+  "version": "0.0.7",
   "main": "index.js",
   "license": "MIT",
   "private": false,

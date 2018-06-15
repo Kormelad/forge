@@ -1,6 +1,6 @@
 {
-  "name": "configBuilderUniqForExmpl",
-  "version": "0.0.6",
+  "name": "config-builder-uniq-for-exmpl",
+  "version": "0.0.7",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
