@@ -1,0 +1,15 @@
+{
+  "name": "forge",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:Kormelad/forge.git",
+  "author": "dmedvedev <juggernay@yahoo.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "lerna": "lerna"
+  },
+  "dependencies": {
+    "lerna": "^2.11.0"
+  }
+}
